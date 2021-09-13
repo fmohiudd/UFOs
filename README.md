@@ -72,7 +72,7 @@ The dynamic webpage constructed is shown in Fig 1 below. This figure does not ha
 
 <img src="static/images/UFO_country_shape_search.png">
 
-**Fig 5.** The image in this figure is the result of the search by country ca (Canda) and disk shape. 
+**Fig 5.** The image in this figure is the result of the search by country ca (Canada) and disk shape. 
 
 #### **Summary**
 
