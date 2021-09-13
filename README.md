@@ -24,7 +24,7 @@ We learned to use JavaScript applied in data visualization, such as making a dyn
 
     - We used a second row with a Bootstrap container with three columns width for the filter box and button. The rest of the  nine columns is used for the table of the UFO sightings data. 
 
-    - Finally, we customized the page adding the CSS components - the background and body color, change the font style and add an image, etc. We created a _style.css_ sheet and the body color and the image for the webpage.  
+    - Finally, we customized the page adding the CSS components - the background and body color, change the font style and add an image, etc. We created a _style.css_ sheet and added the information about the body color and the image for the webpage in that sheet.  
 
 ### **Deliverable 1**
 
