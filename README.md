@@ -74,7 +74,7 @@ The dynamic webpage constructed is shown in Fig 1 below. This figure does not ha
 
 **Fig 5.** The image in this figure is the result of the search by country ca (Canada) and disk shape. 
 
-#### **Summary**
+### **Summary**
 
 This UFO webpage does a very good job of filtering the data based on the search criteria. However, there are some drawbacks. Following is the list of drawbacks, and recommendation to fix it. I am also suggesting some features that would improve a user's experience.
 
