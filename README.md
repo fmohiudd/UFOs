@@ -52,7 +52,7 @@ We modified the HTML file _index.html_ and JavaScript files _app.js_ from **Modu
 
 ### **Results:**
 
-The dynamic webpage constructed is shown in Fig 1 below. This figure does not have user input. The text shown in the box is a placeholder, not the search filter input by the user. A user can enter one or more search criteria in the filter box. Fig 2 - Fig 5 shows the same table with different search criteria. If there is no entry that matches the user criteria, then the table is blank.
+The dynamic webpage constructed is shown in Fig 1 below. This figure does not have a user input. The text shown in the box is a placeholder, not the search filter input by the user. A user can enter one or more search criteria in the filter box. Fig 2 - Fig 5 shows the same table with different search criteria. If there is no entry that matches the user criteria, then the table is blank.
 
 <img src="static/images/UFO_webpage_table.png">
 
